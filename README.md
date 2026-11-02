@@ -281,5 +281,5 @@ tested.
 
 ## Support
 
-Email us: the address is in the [privacy policy](https://travellogapp.web.app/privacy) (Section 12, Contact).
+Email us at [armgardtj@outlook.com](mailto:armgardtj@outlook.com). Privacy questions: see the [privacy policy](https://travellogapp.web.app/privacy).
 Setup help: <https://travellogapp.web.app/connect-ai>. Tool reference: <https://travellogapp.web.app/mcp-docs>.
