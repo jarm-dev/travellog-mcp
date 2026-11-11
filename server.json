@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.jarm-dev/travellog",
+  "title": "TravelLog",
+  "description": "Trip planner and travel log: read and add to your trips, itineraries, expenses and places lists.",
+  "version": "1.1.5",
+  "websiteUrl": "https://travellogapp.web.app/connect-ai",
+  "repository": {
+    "url": "https://github.com/jarm-dev/travellog-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://travellogapp.web.app/mcp"
+    }
+  ]
+}
