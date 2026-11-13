@@ -3,7 +3,7 @@
   "name": "io.github.jarm-dev/travellog",
   "title": "TravelLog",
   "description": "Trip planner and travel log: read and add to your trips, itineraries, expenses and places lists.",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "websiteUrl": "https://travellogapp.web.app/connect-ai",
   "repository": {
     "url": "https://github.com/jarm-dev/travellog-mcp",
@@ -13,6 +13,15 @@
     {
       "type": "streamable-http",
       "url": "https://travellogapp.web.app/mcp"
+    }
+  ],
+  "icons": [
+    {
+      "src": "https://travellogapp.web.app/brand/travellog-logo-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
     }
   ]
 }
